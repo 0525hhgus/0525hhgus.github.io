@@ -1,24 +1,23 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: White Box
+description: 블랙박스 기반 난폭운전 탐지 앱
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+2022 Microsoft Azure Virtual Hackathon, 본선
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+   ---
+    - 기간: 2022.05.01~2022.06.07 
+    - 역할
+        - 정형 데이터 수집 및 통계 기반 인사이트 도출
+        - Microsoft Azure 기반 이상탐지 AI 아키텍처 구축
+    - 사용 언어 및 프로그램
+        - 언어: Python, Shell, Java
+        - 프로그램: Microsoft Azure(Microsoft 지원 유료 플랜)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
